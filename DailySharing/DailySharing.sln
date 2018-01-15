@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailySharing", "DailySharing\DailySharing.csproj", "{963295DE-66FD-4948-900A-6789A23B3687}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailySharing.Data", "DailySharing.Data\DailySharing.Data.csproj", "{DB9E86B7-D453-46CA-996E-1E598F85ABA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DailySharing.Service", "DailySharing.Service\DailySharing.Service.csproj", "{E1AE24AD-4DC0-4864-B149-96CA1023F618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{963295DE-66FD-4948-900A-6789A23B3687}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{963295DE-66FD-4948-900A-6789A23B3687}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{963295DE-66FD-4948-900A-6789A23B3687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9E86B7-D453-46CA-996E-1E598F85ABA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9E86B7-D453-46CA-996E-1E598F85ABA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9E86B7-D453-46CA-996E-1E598F85ABA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9E86B7-D453-46CA-996E-1E598F85ABA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1AE24AD-4DC0-4864-B149-96CA1023F618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE24AD-4DC0-4864-B149-96CA1023F618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE24AD-4DC0-4864-B149-96CA1023F618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE24AD-4DC0-4864-B149-96CA1023F618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
